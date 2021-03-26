@@ -1,0 +1,14 @@
+{
+  "name": "shelby-albion-backend",
+  "version": "1.0.0",
+  "main": "src/app.ts",
+  "author": "Matheus Pedroni (@mpedroni)",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node src/app.ts"
+  },
+  "private": false,
+  "devDependencies": {
+    "express": "^4.17.1"
+  }
+}
